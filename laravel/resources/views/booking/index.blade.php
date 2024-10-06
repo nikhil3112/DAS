@@ -20,6 +20,7 @@
                                     <select class="form-control select2" name="status" id="status">
                                         <option value="">All</option>
                                         <option value="cancel">Cancel</option>
+                                        <option value="reject">Rejected</option>
                                         <option value="postpone">Postpone</option>
                                     </select>
                                 </div>

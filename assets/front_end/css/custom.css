@@ -1,0 +1,219 @@
+	
+.accordion-rlt-text{
+    float: right;
+	font-size: 20px;
+    font-weight: 800;
+    color: #000 !important;
+	padding-right: 20px;
+}
+.card-rlt-text{
+    float: right;
+    font-weight: 800;
+    color: #000 !important;
+	padding-right: 20px;
+	font-size: 18px !important;    	
+}
+.rtl-direction{
+    direction: rtl;
+}
+.fn-weight-800{
+    font-weight: 800;
+}
+
+.hm-card-body{
+    padding: 10px;
+	font-size: 15px;
+}
+
+.hm-card-body h5{
+	font-size: 15px;
+}
+
+.custome-header{    
+    background-color: #fff3f3;
+}
+
+
+.fn-18{
+    font-size: 18px;
+}
+
+
+.card-custom {
+	/*box-shadow: 0 10px 15px 0 rgb(0 0 0 / 50%), 0 10px 15px 0 rgb(0 0 0 / 25%) !important;*/
+    margin-bottom: 20px;
+}
+.card-custom .card-header {
+    margin-bottom: 2px !important;
+    border-bottom: 2px solid #1797be !important;
+    background: #f4f6f9 !important;
+    padding: 0 10px;
+}
+.card-custom .card-header .card-title{
+	font-size: 10px !important; 
+	margin-bottom: 3px !important; 
+	margin-top: 3px !important; 
+}
+
+.card-custom .card-body {
+    padding: 5px 5px;
+}
+
+.card-custom .card-body .blockquote-footer::before{
+	content:"" !important;
+}
+
+.card-custom .card-footer{
+    padding: 0px 10px 3px 10px !important;
+}
+
+.ayat-words{
+    padding: 0px 18px;
+}
+
+.ayat-words blockquote{    
+	width: 140px;
+    margin-left: 20px;
+    margin-bottom: 13px !important;
+}
+
+.ayat-words .main-word{
+	font-size: 30px !important;
+    text-align: right;
+}
+
+.ayat-words .blockquote-footer p{
+	margin-bottom: 3px !important;
+    border-bottom: 1px solid #ccc !important;
+    font-size: 12px !important;
+    text-align: center;
+}
+
+.ayah-translation {
+    margin-bottom: 3px;
+    border-bottom: 1px solid #cccccca3;
+}
+
+.single-word{
+    text-align: center;
+    float: right;
+    margin: 0 8px;
+    cursor: pointer;
+}
+
+.word-arabic {
+    text-align: center;
+    font-size: 50px;
+    margin: -2px 0 -5px -5px;
+    border-bottom: 1px solid transparent;
+    direction: rtl;
+}
+
+.font-uthmani-hafs, .word-arabic-uthmani-hafs {
+    font-family: Uthmani-Hafs!important;
+}
+
+.word-transliteration {
+    padding-top: 10px;
+    padding-bottom: 2px;
+}
+
+.word-translation, .word-transliteration {
+    font-size: 12px;
+    font-family: arial;
+    color: #999;
+    direction: ltr;
+}
+.word-translation {
+    padding-top: 0;
+    color: #6d6d6d;
+}
+.word-translation {
+    padding-bottom: 30px;
+}
+.word-arabic, .word-translation, .word-transliteration {
+    display: block;
+}
+
+.single-unique-word{
+    margin: 5px 10px !important;
+    padding: 4px 10px;
+    min-width: 150px !important;
+}
+
+.single-unique-word:hover {
+    background-color: #41af9f38;
+}
+.single-unique-word .word-translation, .single-unique-word .word-transliteration {
+    color: #000000bf;
+}
+
+.font-weight-700{
+    font-weight: 700 !important;
+}
+
+.custom-footer{
+    background-color: #fff3f3;
+}
+
+.new-control {
+    padding-left: 0px;
+    margin-right: 10px;
+}
+.iteam-link {
+    color: #3b3f5c;
+    text-decoration: none;
+}
+.iteam-link:hover {
+    color: #3b3f5c;
+    text-decoration: none;
+}
+.custom-item:hover {
+    background-color: #fff3f3 !important;
+}
+.custom-item {
+    border: 1px solid #28a745 !important;
+    min-width:unset !important;
+}
+.custom-item-padding{
+    padding: 2px 4px !important;
+}
+.user-profile {
+    display: flex !important;
+    align-items: center !important;
+}
+
+
+.form-group.has-error label {
+    color: #dd4b39;
+}
+
+.form-group.has-error .help-block {
+    color: #dd4b39;
+}
+
+
+#play, .pause {
+    margin: 6px auto;
+    display: block;
+    background-image: url(../../img/image.png);
+    background-position: 0 -144px;
+    width: 12px;
+    height: 16px;
+}
+
+.pause {
+    background-image: url(../../img/image.png) !important;
+    background-position: 0 -807px !important;
+    width: 12px !important;
+    height: 15px !important;
+}
+
+.card-active{
+   border-top: 8px solid #fa5757!important;
+}
+
+
+.bg-light-blue{
+    background-color: #41af9f38!important;
+}
